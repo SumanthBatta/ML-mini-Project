@@ -1,3 +1,5 @@
 get the usser data....
 and me process the data
-vwn
+
+
+create a avarar for use yes 
